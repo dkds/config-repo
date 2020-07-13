@@ -1,0 +1,6 @@
+
+service:
+  mock:
+    base-url: https://jsonplaceholder.typicode.com
+  kafka:
+    base-url: http://127.0.0.1:9092

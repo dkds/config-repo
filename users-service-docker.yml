@@ -1,0 +1,7 @@
+
+service:
+  todos:
+    base-url: http://${SERVICE_LOCATION_TODOS}
+
+todos-service:
+  todos-per-user: 5
